@@ -1,3 +1,9 @@
+//***************************************
+
+// Class made by Zyggi(Zygimantas Pranka)
+
+//***************************************
+
 package client;
 
 import java.io.IOException;

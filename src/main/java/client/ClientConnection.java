@@ -3,6 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+//***************************************
+
+// Class made by Zyggi(Zygimantas Pranka)
+
+//***************************************
 package client;
 
 import java.io.IOException;
